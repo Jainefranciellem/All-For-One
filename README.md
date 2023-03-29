@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação T
 
 <h1>Sobre o projeto</h1>
 
-<p>Este é o All For One, que visa testar os conhecimentos sobre comando em MySQL. Nesse projeto, pude construir várias queries para buscar, filtrar, inserir, atualizar e apagar informações do banco de dados Northwind.</p>
+<p>Este é o All For One, projeto que visa testar os conhecimentos sobre comando em MySQL. Nesse projeto, pude construir várias queries para  inserir, filtrar, buscar, atualizar e apagar informações do banco de dados Northwind.</p>
 
 <h1>Arquivos desenvolvidos.</h1>
 
